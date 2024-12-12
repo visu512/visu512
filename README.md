@@ -1,88 +1,45 @@
-# Hi there 👋, I'm Vishal kumar  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:your-email@gmail.com)
+<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Tanya Gupta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
 
----
+[![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanyagupta0201)
+[![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:tanyagupta.pg@gmail.com)
+[![leetcode badge](https://img.shields.io/badge/tanya02-30302f?style=flat&logo=leetcode)](https://leetcode.com/tanya02/)
 
-### About Me  
-🎓 I’m a final-year Student, undergraduate pursuing BCA and a passionate programmer who loves to code.  
-✨ Creatively curious and a self-learner, I enjoy exploring new technologies and continuously upskilling.  
+<img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
-🌱 **Currently Learning**:  
-- Android Development
-- Web Development
-- Machine Learning
-- Practicing Data Structures and Algorithms daily  
+I'm a final year CSE undergraduate pursuing B. Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.  <br> 
+<img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-💬 **Goals**:  
-- Looking forward to contributing to Open Source Projects!  
+- 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
+- 💬 I’m looking forward to contribute to **Open Source Projects**.
+- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
+-  Show some ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
-⚡ **Fun Fact**:  
-"There are 10 types of people in this world: those who understand binary and those who don't." 😄  
+<br>
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-### Languages and Tools  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="50"/></a><a href="https://developer.android.com" target="_blank"> <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="45"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a><a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="53" height="55"/></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> </a>
 
----
-
-### Projects  
-#### 🌟 **[Women Safety App](#)**  
-A simple Women Safety Application built in Android Studio using Java.  
-⭐ **9 Stars** | 🔄 **2 Forks**
-
-#### 🌟 **[ToDo List App](#)**  
-A To-Do Task Manager App made in Kotlin using Room Database.  
-⭐ **59 Stars** | 🔄 **23 Forks**
-
----
-
-### GitHub Stats  
-📈 **GitHub Graph**
-
----
-
-### Support Me  
-Show some ❤ by giving ⭐ to my repositories! A simple star could make someone's day 😄.
+</p>
 
 
-### Languages and Tools  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+<br>
+<br>
 
----
+![github graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=react-dark)
 
-### Projects  
-#### 🌟 **[Women Safety App](#)**  
-A simple Women Safety Application built in Android Studio using Java.  
-⭐ **9 Stars** | 🔄 **2 Forks**
 
-#### 🌟 **[ToDo List App](#)**  
-A To-Do Task Manager App made in Kotlin using Room Database.  
-⭐ **59 Stars** | 🔄 **23 Forks**
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=dark&hide_border=false" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api?username=tanyagupta0201&show_icons=true&theme=dark" width = 500>
 
----
 
-### GitHub Stats  
-📈 **GitHub Graph**
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/tanyagupta0201/github-readme-stats)
 
-### Support Me  
-Show some ❤ by giving ⭐ to my repositories! A simple star could make someone's day 😄.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
+
+
+
+
+
