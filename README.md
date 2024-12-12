@@ -1,10 +1,10 @@
 <h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Vishal Kumar </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishal512)
-[![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:svk8190@gmail.com)
-[![leetcode badge](https://img.shields.io/badge/tanya02-30302f?style=flat&logo=leetcode)](https://leetcode.com/u/Vishal_Kumar515/)
+[![linkedin badge](https://img.shields.io/badge/Linkdein-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishal512)
+[![Gmail Badge](https://img.shields.io/badge/Email-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:svk8190@gmail.com)
+[![leetcode badge](https://img.shields.io/badge/LeetCode-30302f?style=flat&logo=leetcode)](https://leetcode.com/u/Vishal_Kumar515/)
 
-<img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=vishal512&style=plastic" />
 
 I'm a final year  undergraduate pursuing BCA and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.  <br> 
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
