@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Vishal Kumar </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Vishal Kr. </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/Linkedin-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishal512)
 [![Gmail Badge](https://img.shields.io/badge/Email-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:svk8190@gmail.com)
