@@ -73,7 +73,7 @@ I'm a final year  undergraduate pursuing BCA and a passionate programmer who lov
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="55" height="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="55" height="55"/>
   </a>
 
   <!-- Express.js -->
