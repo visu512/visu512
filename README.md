@@ -50,7 +50,7 @@ I'm a final year  undergraduate pursuing BCA and a passionate programmer who lov
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="cplusplus" width="50" height="50"/>
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="50"/>
+    <img src="https://www.pngwing.com/en/free-png-vffgt" alt="python" width="55" height="50"/>
   </a>
   <a href="https://kotlinlang.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="45"/>
