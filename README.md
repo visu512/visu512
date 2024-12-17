@@ -45,12 +45,7 @@ I'm a final year  undergraduate pursuing BCA and a passionate programmer who lov
   </a>
 </div>
 
-
-
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50"/>
@@ -78,7 +73,7 @@ I'm a final year  undergraduate pursuing BCA and a passionate programmer who lov
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="50" height="60"/>
   </a>
 
   <!-- Express.js -->
