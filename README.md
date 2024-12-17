@@ -17,7 +17,7 @@ I'm a final year  undergraduate pursuing BCA and a passionate programmer who lov
    <h3 align="left">Languages and Tools:</h3>
   <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+    <img src="https://www.google.com/search?sca_esv=9931d7f4e0845048&sxsrf=ADLYWIK2l4BQhjmnDU7OEjD92x8W3BjcTw:1734418152642&q=html+pic&udm=2&fbs=AEQNm0CTfDLqb2ooB5X3wKx8w0rFgMBQ_q-knsvWAvn5jAeg17BpegVaPm79eTK48T5-yqQysmu8m-BVejdpbp0eW8zrTGHydf8c6Q-PrFVUe5Dp3kLnhbP-eu9sn9lfSweAlDZUERRSMXIny3Helt2bx4EvGwEaya2sLr2slSDghMChQHWUzv-oBjInr3wk91vTpj9SURkJkc7FLUHZcMUCJgtBTmcpLaq4eCTxBAjlLXfuNDa6VsLWFokJJhTfPXiL9ehur4ew&sa=X&ved=2ahUKEwjDgoWPm66KAxWzR2wGHedGDDIQtKgLegQIExAB&biw=1536&bih=730&dpr=1.25#imgrc=jcQ17s4O5NaT8M&imgdii=wzCEkQJ7AwFH2M" alt="html" width="50" height="50"/>
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="50"/>
