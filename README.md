@@ -80,9 +80,10 @@ I'm a final year  undergraduate pursuing BCA and a passionate programmer who lov
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="100" height="50"/>
   </a>
-</div>
-
-
-<br>
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50"/>
+  </a>
+</div><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/visu512)  
