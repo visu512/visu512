@@ -11,8 +11,6 @@ I'm a final year  undergraduate pursuing BCA and a passionate programmer who lov
 
 - 🌱 I’m currently focusing on **Android Development**, **Full Stack Web development** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
--  Show some ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄. <br>
   
    <h3 align="left">Languages and Tools:</h3>
   <div style="display: flex; gap: 10px; align-items: center;">
