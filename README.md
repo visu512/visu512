@@ -15,8 +15,8 @@ I'm a final year  undergraduate pursuing BCA and a passionate programmer who lov
    <h3 align="left">Languages and Tools:</h3>
   <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-<!--     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="50" height="50"/>
-  </a> -->
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="50" height="50"/>
+  
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="50"/>
   </a>
@@ -42,7 +42,6 @@ I'm a final year  undergraduate pursuing BCA and a passionate programmer who lov
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   </a>
 </div>
-
 <div style="display: flex; gap: 10px; align-items: center;">
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
