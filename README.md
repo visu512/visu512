@@ -54,7 +54,7 @@ I'm a final year  undergraduate pursuing BCA and a passionate programmer who lov
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50"/>
   </a><a href="https://reactnative.dev/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="50" height="50"/>
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="50" height="50"/> -->
 </a>
 </div>
 <!-- <div style="display: flex; gap: 10px; align-items: center;">
