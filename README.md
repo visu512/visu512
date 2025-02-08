@@ -9,7 +9,7 @@
 I'm a final year  undergraduate pursuing BCA and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.  <br> 
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-- 🌱 I’m currently focusing on **Android Development**, **Machine Learning** and practicing **Data Structures and Algorithms** everyday.
+- 🌱 I’m currently focusing on **Android Development**, **Jetpack compose** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
   
 <h3 align="left">Languages and Tools:</h3>
