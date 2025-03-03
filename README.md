@@ -2,7 +2,6 @@
 
 [![linkedin badge](https://img.shields.io/badge/Linkedin-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishal512)
 [![Gmail Badge](https://img.shields.io/badge/Email-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:svk8190@gmail.com)
-[![leetcode badge](https://img.shields.io/badge/LeetCode-30302f?style=flat&logo=leetcode)](https://leetcode.com/u/Vishal_Kumar515/)
 
 <img src="https://komarev.com/ghpvc/?username=vishal512&style=plastic" />
 
